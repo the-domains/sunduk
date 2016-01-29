@@ -1,0 +1,28 @@
+name: Sunduk
+favicon: null
+layout_spectrum: 0.7657100504729897
+typography_spectrum: 0.7781031404156238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2782091414555907
+  lightness: 0.7334317597560585
+  saturation: 0.02486538258381188
+  rhythmicContrast: 0.4085628669708967
+purpose: []
