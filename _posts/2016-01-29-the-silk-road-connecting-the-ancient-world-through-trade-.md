@@ -17,7 +17,7 @@ keywords:
   - alex
   - thread
 description: "View full lesson: http://ed.ted.com/lessons/the-silk-road-history-s-first-world-wide-web-shannon-harris-castelo With modern technology, a global exchange of goods and ideas can happen at the click of a button. But what about 2,000 years ago? Shannon Harris Castelo unfolds the history of the 5,000-mile Silk Road, a network of multiple routes that used the common language of commerce to connect the world's major settlements, thread by thread."
-datePublished: '2016-01-29T14:19:57.024Z'
+datePublished: '2016-01-29T14:19:57.051Z'
 dateModified: '2016-01-29T14:19:54.263Z'
 author:
   - name: TED-Ed
