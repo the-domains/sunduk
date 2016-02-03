@@ -16,9 +16,9 @@ keywords:
   - museum
   - chirkunov
   - gulag
-description: "The era feels impossible now, in a Russia that's increasingly closed, controlled and paranoid: Crowds dancing as buskers played world beats in a muddy field outside the governor's office. A government-supported contemporary art gallery displaying exhibits daringly mocking of the Kremlin."
-datePublished: '2016-02-03T10:04:14.270Z'
-dateModified: '2016-02-03T10:04:10.897Z'
+description: ''
+datePublished: '2016-02-03T10:05:41.859Z'
+dateModified: '2016-02-03T10:05:31.642Z'
 author: []
 related: []
 app_links: []
