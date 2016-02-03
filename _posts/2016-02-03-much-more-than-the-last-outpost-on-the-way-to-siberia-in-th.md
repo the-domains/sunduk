@@ -17,8 +17,8 @@ keywords:
   - chirkunov
   - gulag
 description: "The era feels impossible now, in a Russia that's increasingly closed, controlled and paranoid: Crowds dancing as buskers played world beats in a muddy field outside the governor's office. A government-supported contemporary art gallery displaying exhibits daringly mocking of the Kremlin."
-datePublished: '2016-02-03T09:45:24.972Z'
-dateModified: '2016-02-03T09:45:18.054Z'
+datePublished: '2016-02-03T09:51:05.600Z'
+dateModified: '2016-02-03T09:51:02.607Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 # Much more than the last outpost on the way to Siberia: In the city of Perm, an echo of the counter-cultural revolution is still audible
 
-<article style=""><h1>Russia's brief, shining moment: The city of Perm and its meandering dance with history</h1><p>The era feels impossible now, in a Russia that's increasingly closed, controlled and paranoid: Crowds dancing as buskers played world beats in a muddy field outside the governor's office. A government-supported contemporary art gallery displaying exhibits daringly mocking of the Kremlin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9c54e539e55d3542e381c0061d76b6bac53e43f.jpg" /></article>
+<article style=""><h1>Russia's brief, shining moment: The city of Perm and its meandering dance with history</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7105a4d34fda27a3c1d2e59301f05582a4c42a7.jpg" /></article>
