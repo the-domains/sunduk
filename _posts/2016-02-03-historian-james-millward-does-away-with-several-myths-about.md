@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Book: \"The Silk Road: A Very Short Introduction\" with GU's own James Millward April 15, 2013 James Millward's new book, The Silk Road: A Very Short Introduction (Oxford University Press, 2013) has been published. It is both an introduction to, and provocative argument about, the nature and significance of trans-Eurasian exchanges in world history."
-datePublished: '2016-02-03T09:39:06.168Z'
-dateModified: '2016-02-03T09:39:04.087Z'
+datePublished: '2016-02-03T09:53:15.672Z'
+dateModified: '2016-02-03T09:53:12.930Z'
 author:
   - name: 'Center for Eurasian, Russian and East European Studies'
     url: 'https://www.youtube.com/user/sfsceres'
